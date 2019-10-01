@@ -45,7 +45,7 @@ export const Enq2 = [ {
     "price" : "12499",
     "product" : 2,
     "specification" : {
-      "Brand" : "Shiv shkati"
+      "Brand" : "Runi Solutions"
     }
   }, {
     "asrc" : {
@@ -58,7 +58,7 @@ export const Enq2 = [ {
     "price" : "1323",
     "product" : 3,
     "specification" : {
-      "Brand" : "Shiv shkati"
+      "Brand" : "Runi Solutions"
     }
   }, {
     "asrc" : {
@@ -67,11 +67,11 @@ export const Enq2 = [ {
     "cate" : 2,
     "discount" : 37,
     "msrc" : "https://firebasestorage.googleapis.com/v0/b/shop-744dd.appspot.com/o/uploads%2FLighthouse.jpg?alt=media",
-    "name" : "Dish TV HD Connection - All India Pack 1 month Super Family & Full on HD",
+    "name" : "Dish TV HD Connection - All Vietnam Pack 1 month Super Family & Full on HD",
     "price" : "1499",
     "product" : 4,
     "specification" : {
-      "Brand" : "Shiv shkati"
+      "Brand" : "Runi Solutions"
     }
   } ]
   

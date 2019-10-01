@@ -153,7 +153,7 @@ export default class CardView extends Component {
                 </Text>
                 <View style={{flexDirection: 'row', marginLeft: 0}}>
                   <Text style={{marginRight: 5, fontWeight: 'bold'}}>
-                    ₹{newprice}
+                    {newprice} vnđ
                   </Text>
                   {cross}
               </View>

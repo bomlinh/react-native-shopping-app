@@ -22,7 +22,8 @@ export default class AboutScreen extends Component {
   
     render() {
       let pic = {
-        uri: 'https://firebasestorage.googleapis.com/v0/b/shop-744dd.appspot.com/o/splash.png?alt=media&token=1fca951a-cc3a-49b3-85dc-2e7e5a2f98c1'
+        //uri: 'https://firebasestorage.googleapis.com/v0/b/shop-744dd.appspot.com/o/splash.png?alt=media&token=1fca951a-cc3a-49b3-85dc-2e7e5a2f98c1'
+        uri: '../assets/images/splash.jpg'
       };
       return (
         <ScrollView style={styles.container}>

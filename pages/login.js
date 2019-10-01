@@ -23,7 +23,7 @@ export default class LoginScreen extends Component {
         user: null,
         message: '',
         codeInput: '',
-        phoneNumber: '+91',
+        phoneNumber: '+84',
         confirmResult: null,
       };
       

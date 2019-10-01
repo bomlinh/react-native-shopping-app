@@ -1,0 +1,7 @@
+android/app/build/
+android/build/
+node_modules/
+.idea/
+android/.gradle/
+android/app/mykeystore.keystore
+mykeystore.keystore

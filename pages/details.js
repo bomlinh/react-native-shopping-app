@@ -154,7 +154,7 @@ export default class DetailsScreen extends Component {
                 { imgs }
                 <Text style={[styles.title, {backgroundColor: 'rgba(255,255,255,0.8)'}]}>{this.product.name}</Text>
                 <View style={{paddingTop: 15, paddingBottom: 8, flexDirection: 'row', marginLeft: 0, width: '100%', backgroundColor: 'white', elevation: 3}}>
-                  <Text style={[styles.title, {paddingHorizontal: 5},  {backgroundColor: 'rgba(255,255,255,0.8)'}]}>₹{newprice.toFixed(2)}</Text>
+                  <Text style={[styles.title, {paddingHorizontal: 5},  {backgroundColor: 'rgba(255,255,255,0.8)'}]}>{newprice.toFixed(2)} vnđ</Text>
                   {cross}
                   {discount}
                 </View>
